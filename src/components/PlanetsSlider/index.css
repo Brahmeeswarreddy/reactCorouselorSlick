@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  max-width: 800px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+}
+.one {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.dotClass {
+  color: blue;
+}
+.image-url {
+  height: 200px;
+  width: 200px;
+  border-radius: 30px;
+}

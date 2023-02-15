@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image-url {
+  height: 250px;
+  width: 300px;
+  border-radius: 30px;
+}
+.item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.paragraph {
+  color: #ffffff;
+}
+.name {
+  color: #ffffff;
+}
